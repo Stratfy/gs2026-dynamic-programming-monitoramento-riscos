@@ -1,0 +1,198 @@
+{
+  "altura": 8,
+  "n": 24,
+  "in_order": [
+    {
+      "risco": 0.803,
+      "id": 2202307,
+      "nome": "Canto do Buriti",
+      "uf": "PI",
+      "bioma": "Caatinga",
+      "n_focos": 16842
+    },
+    {
+      "risco": 0.8567,
+      "id": 2101608,
+      "nome": "Barra do Corda",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 21339
+    },
+    {
+      "risco": 0.8806,
+      "id": 2103000,
+      "nome": "Caxias",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 15123
+    },
+    {
+      "risco": 0.8838,
+      "id": 2104800,
+      "nome": "Grajaú",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 20810
+    },
+    {
+      "risco": 0.8892,
+      "id": 1717503,
+      "nome": "Pium",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 14651
+    },
+    {
+      "risco": 0.901,
+      "id": 1711902,
+      "nome": "Lagoa da Confusão",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 24354
+    },
+    {
+      "risco": 0.9098,
+      "id": 2101806,
+      "nome": "Benedito Leite",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 14171
+    },
+    {
+      "risco": 0.9103,
+      "id": 1717909,
+      "nome": "Ponte Alta do Tocantins",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 13970
+    },
+    {
+      "risco": 0.915,
+      "id": 1716208,
+      "nome": "Paranã",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 33659
+    },
+    {
+      "risco": 0.9198,
+      "id": 1708205,
+      "nome": "Formoso do Araguaia",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 21688
+    },
+    {
+      "risco": 0.9274,
+      "id": 1702406,
+      "nome": "Arraias",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 22468
+    },
+    {
+      "risco": 0.9284,
+      "id": 2201150,
+      "nome": "Baixa Grande do Ribeiro",
+      "uf": "PI",
+      "bioma": "Cerrado",
+      "n_focos": 16879
+    },
+    {
+      "risco": 0.9299,
+      "id": 1712405,
+      "nome": "Lizarda",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 14665
+    },
+    {
+      "risco": 0.9326,
+      "id": 2928901,
+      "nome": "São Desidério",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 23548
+    },
+    {
+      "risco": 0.9351,
+      "id": 1712702,
+      "nome": "Mateiros",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 19216
+    },
+    {
+      "risco": 0.9414,
+      "id": 2203909,
+      "nome": "Floriano",
+      "uf": "PI",
+      "bioma": "Caatinga",
+      "n_focos": 18191
+    },
+    {
+      "risco": 0.9458,
+      "id": 2911105,
+      "nome": "Formosa do Rio Preto",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 23656
+    },
+    {
+      "risco": 0.9459,
+      "id": 2908101,
+      "nome": "Cocos",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 17181
+    },
+    {
+      "risco": 0.9509,
+      "id": 2211209,
+      "nome": "Uruçuí",
+      "uf": "PI",
+      "bioma": "Cerrado",
+      "n_focos": 24025
+    },
+    {
+      "risco": 0.9522,
+      "id": 2101400,
+      "nome": "Balsas",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 30721
+    },
+    {
+      "risco": 0.9535,
+      "id": 2926202,
+      "nome": "Riachão das Neves",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 20067
+    },
+    {
+      "risco": 0.9598,
+      "id": 2902708,
+      "nome": "Barra",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 21651
+    },
+    {
+      "risco": 0.9702,
+      "id": 2100501,
+      "nome": "Alto Parnaíba",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 26362
+    },
+    {
+      "risco": 0.971,
+      "id": 2106706,
+      "nome": "Mirador",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 38521
+    }
+  ]
+}

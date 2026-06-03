@@ -1,0 +1,198 @@
+{
+  "altura": 8,
+  "n": 24,
+  "in_order": [
+    {
+      "risco": 0.5812,
+      "id": 1503754,
+      "nome": "Jacareacanga",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 9153
+    },
+    {
+      "risco": 0.603,
+      "id": 5105580,
+      "nome": "Marcelândia",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 11736
+    },
+    {
+      "risco": 0.6125,
+      "id": 1504703,
+      "nome": "Moju",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 12517
+    },
+    {
+      "risco": 0.6178,
+      "id": 1302900,
+      "nome": "Maués",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 8857
+    },
+    {
+      "risco": 0.6439,
+      "id": 1503606,
+      "nome": "Itaituba",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 8394
+    },
+    {
+      "risco": 0.6517,
+      "id": 1505809,
+      "nome": "Portel",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 13246
+    },
+    {
+      "risco": 0.7049,
+      "id": 1301704,
+      "nome": "Humaitá",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 9019
+    },
+    {
+      "risco": 0.7207,
+      "id": 1303304,
+      "nome": "Novo Aripuanã",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 14701
+    },
+    {
+      "risco": 0.7238,
+      "id": 1300144,
+      "nome": "Apuí",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 27220
+    },
+    {
+      "risco": 0.7257,
+      "id": 1505486,
+      "nome": "Pacajá",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 12391
+    },
+    {
+      "risco": 0.7272,
+      "id": 1302702,
+      "nome": "Manicoré",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 10821
+    },
+    {
+      "risco": 0.7275,
+      "id": 1300904,
+      "nome": "Canutama",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 8731
+    },
+    {
+      "risco": 0.7283,
+      "id": 1500602,
+      "nome": "Altamira",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 17436
+    },
+    {
+      "risco": 0.7297,
+      "id": 1506187,
+      "nome": "Rondon do Pará",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 9095
+    },
+    {
+      "risco": 0.7358,
+      "id": 1505502,
+      "nome": "Paragominas",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 8894
+    },
+    {
+      "risco": 0.7454,
+      "id": 1507300,
+      "nome": "São Félix do Xingu",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 17548
+    },
+    {
+      "risco": 0.7473,
+      "id": 1505106,
+      "nome": "Óbidos",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 12266
+    },
+    {
+      "risco": 0.7738,
+      "id": 1302405,
+      "nome": "Lábrea",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 19739
+    },
+    {
+      "risco": 0.8143,
+      "id": 1100205,
+      "nome": "Porto Velho",
+      "uf": "RO",
+      "bioma": "Amazônia",
+      "n_focos": 19757
+    },
+    {
+      "risco": 0.8313,
+      "id": 5101407,
+      "nome": "Aripuanã",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 17301
+    },
+    {
+      "risco": 0.832,
+      "id": 5108907,
+      "nome": "Nova Maringá",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 18383
+    },
+    {
+      "risco": 0.8518,
+      "id": 5106240,
+      "nome": "Nova Ubiratã",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 15055
+    },
+    {
+      "risco": 0.8596,
+      "id": 5107859,
+      "nome": "São Félix do Araguaia",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 18329
+    },
+    {
+      "risco": 0.8827,
+      "id": 5103254,
+      "nome": "Colniza",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 42141
+    }
+  ]
+}

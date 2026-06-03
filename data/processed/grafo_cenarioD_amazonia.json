@@ -1,0 +1,699 @@
+{
+  "nome": "Cenario_D_Amazonia",
+  "vertices": [
+    {
+      "id": 5103254,
+      "nome": "Colniza",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 42141,
+      "risco_fogo_medio": 0.8151,
+      "frp_medio": 67.237,
+      "dias_sem_chuva_medio": 7.64,
+      "lat": -9.160572,
+      "lon": -60.207402,
+      "indice_risco": 0.882738
+    },
+    {
+      "id": 1300144,
+      "nome": "Apuí",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 27220,
+      "risco_fogo_medio": 0.5772,
+      "frp_medio": 85.936,
+      "dias_sem_chuva_medio": 6.57,
+      "lat": -7.047017,
+      "lon": -59.616223,
+      "indice_risco": 0.723841
+    },
+    {
+      "id": 1100205,
+      "nome": "Porto Velho",
+      "uf": "RO",
+      "bioma": "Amazônia",
+      "n_focos": 19757,
+      "risco_fogo_medio": 0.7477,
+      "frp_medio": 42.086,
+      "dias_sem_chuva_medio": 6.68,
+      "lat": -9.06202,
+      "lon": -63.836515,
+      "indice_risco": 0.814295
+    },
+    {
+      "id": 1302405,
+      "nome": "Lábrea",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 19739,
+      "risco_fogo_medio": 0.6802,
+      "frp_medio": 57.934,
+      "dias_sem_chuva_medio": 5.48,
+      "lat": -9.031525,
+      "lon": -65.874834,
+      "indice_risco": 0.773761
+    },
+    {
+      "id": 5108907,
+      "nome": "Nova Maringá",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 18383,
+      "risco_fogo_medio": 0.7817,
+      "frp_medio": 63.714,
+      "dias_sem_chuva_medio": 34.33,
+      "lat": -12.823875,
+      "lon": -57.044834,
+      "indice_risco": 0.83203
+    },
+    {
+      "id": 5107859,
+      "nome": "São Félix do Araguaia",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 18329,
+      "risco_fogo_medio": 0.8279,
+      "frp_medio": 76.807,
+      "dias_sem_chuva_medio": 44.59,
+      "lat": -11.586429,
+      "lon": -51.764436,
+      "indice_risco": 0.859641
+    },
+    {
+      "id": 1507300,
+      "nome": "São Félix do Xingu",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 17548,
+      "risco_fogo_medio": 0.6401,
+      "frp_medio": 27.856,
+      "dias_sem_chuva_medio": 5.95,
+      "lat": -6.638451,
+      "lon": -52.216793,
+      "indice_risco": 0.745351
+    },
+    {
+      "id": 1500602,
+      "nome": "Altamira",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 17436,
+      "risco_fogo_medio": 0.612,
+      "frp_medio": 40.261,
+      "dias_sem_chuva_medio": 12.0,
+      "lat": -6.966261,
+      "lon": -53.986268,
+      "indice_risco": 0.728255
+    },
+    {
+      "id": 5101407,
+      "nome": "Aripuanã",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 17301,
+      "risco_fogo_medio": 0.7842,
+      "frp_medio": 61.413,
+      "dias_sem_chuva_medio": 12.01,
+      "lat": -9.800292,
+      "lon": -60.151595,
+      "indice_risco": 0.831287
+    },
+    {
+      "id": 5106240,
+      "nome": "Nova Ubiratã",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 15055,
+      "risco_fogo_medio": 0.827,
+      "frp_medio": 77.805,
+      "dias_sem_chuva_medio": 25.41,
+      "lat": -12.877472,
+      "lon": -54.691508,
+      "indice_risco": 0.851827
+    },
+    {
+      "id": 1303304,
+      "nome": "Novo Aripuanã",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 14701,
+      "risco_fogo_medio": 0.61,
+      "frp_medio": 61.014,
+      "dias_sem_chuva_medio": 5.41,
+      "lat": -6.567019,
+      "lon": -60.396637,
+      "indice_risco": 0.720747
+    },
+    {
+      "id": 1505809,
+      "nome": "Portel",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 13246,
+      "risco_fogo_medio": 0.5013,
+      "frp_medio": 25.589,
+      "dias_sem_chuva_medio": 4.0,
+      "lat": -2.847949,
+      "lon": -50.70581,
+      "indice_risco": 0.651675
+    },
+    {
+      "id": 1504703,
+      "nome": "Moju",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 12517,
+      "risco_fogo_medio": 0.4395,
+      "frp_medio": 34.137,
+      "dias_sem_chuva_medio": 4.85,
+      "lat": -2.833694,
+      "lon": -49.230641,
+      "indice_risco": 0.612502
+    },
+    {
+      "id": 1505486,
+      "nome": "Pacajá",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 12391,
+      "risco_fogo_medio": 0.6288,
+      "frp_medio": 29.447,
+      "dias_sem_chuva_medio": 4.01,
+      "lat": -3.581567,
+      "lon": -50.465973,
+      "indice_risco": 0.725708
+    },
+    {
+      "id": 1505106,
+      "nome": "Óbidos",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 12266,
+      "risco_fogo_medio": 0.6654,
+      "frp_medio": 24.117,
+      "dias_sem_chuva_medio": 6.64,
+      "lat": 0.543307,
+      "lon": -55.637259,
+      "indice_risco": 0.747293
+    },
+    {
+      "id": 5105580,
+      "nome": "Marcelândia",
+      "uf": "MT",
+      "bioma": "Amazônia",
+      "n_focos": 11736,
+      "risco_fogo_medio": 0.4276,
+      "frp_medio": 45.131,
+      "dias_sem_chuva_medio": 26.95,
+      "lat": -10.954095,
+      "lon": -54.015837,
+      "indice_risco": 0.602981
+    },
+    {
+      "id": 1302702,
+      "nome": "Manicoré",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 10821,
+      "risco_fogo_medio": 0.6396,
+      "frp_medio": 57.271,
+      "dias_sem_chuva_medio": 6.24,
+      "lat": -7.601461,
+      "lon": -61.54346,
+      "indice_risco": 0.72718
+    },
+    {
+      "id": 1503754,
+      "nome": "Jacareacanga",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 9153,
+      "risco_fogo_medio": 0.4066,
+      "frp_medio": 62.923,
+      "dias_sem_chuva_medio": 3.55,
+      "lat": -6.401866,
+      "lon": -57.746887,
+      "indice_risco": 0.581192
+    },
+    {
+      "id": 1506187,
+      "nome": "Rondon do Pará",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 9095,
+      "risco_fogo_medio": 0.6545,
+      "frp_medio": 28.96,
+      "dias_sem_chuva_medio": 9.54,
+      "lat": -4.423551,
+      "lon": -48.341637,
+      "indice_risco": 0.729697
+    },
+    {
+      "id": 1301704,
+      "nome": "Humaitá",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 9019,
+      "risco_fogo_medio": 0.6137,
+      "frp_medio": 50.147,
+      "dias_sem_chuva_medio": 6.93,
+      "lat": -7.483047,
+      "lon": -62.973726,
+      "indice_risco": 0.704906
+    },
+    {
+      "id": 1505502,
+      "nome": "Paragominas",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 8894,
+      "risco_fogo_medio": 0.6661,
+      "frp_medio": 37.031,
+      "dias_sem_chuva_medio": 9.65,
+      "lat": -3.180542,
+      "lon": -47.338108,
+      "indice_risco": 0.735831
+    },
+    {
+      "id": 1302900,
+      "nome": "Maués",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 8857,
+      "risco_fogo_medio": 0.4696,
+      "frp_medio": 112.745,
+      "dias_sem_chuva_medio": 12.9,
+      "lat": -6.048558,
+      "lon": -58.528102,
+      "indice_risco": 0.617776
+    },
+    {
+      "id": 1300904,
+      "nome": "Canutama",
+      "uf": "AM",
+      "bioma": "Amazônia",
+      "n_focos": 8731,
+      "risco_fogo_medio": 0.6533,
+      "frp_medio": 47.293,
+      "dias_sem_chuva_medio": 8.1,
+      "lat": -7.816152,
+      "lon": -63.831651,
+      "indice_risco": 0.727467
+    },
+    {
+      "id": 1503606,
+      "nome": "Itaituba",
+      "uf": "PA",
+      "bioma": "Amazônia",
+      "n_focos": 8394,
+      "risco_fogo_medio": 0.5165,
+      "frp_medio": 47.626,
+      "dias_sem_chuva_medio": 5.37,
+      "lat": -6.060312,
+      "lon": -56.232772,
+      "indice_risco": 0.643932
+    }
+  ],
+  "arestas": [
+    {
+      "u": 1100205,
+      "v": 1300904,
+      "peso_horas": 2.3089
+    },
+    {
+      "u": 1100205,
+      "v": 1301704,
+      "peso_horas": 3.3266
+    },
+    {
+      "u": 1100205,
+      "v": 1302405,
+      "peso_horas": 3.7309
+    },
+    {
+      "u": 1300144,
+      "v": 1302702,
+      "peso_horas": 3.6885
+    },
+    {
+      "u": 1300144,
+      "v": 1302900,
+      "peso_horas": 2.7272
+    },
+    {
+      "u": 1300144,
+      "v": 1303304,
+      "peso_horas": 1.6893
+    },
+    {
+      "u": 1300144,
+      "v": 1503754,
+      "peso_horas": 3.6423
+    },
+    {
+      "u": 1300144,
+      "v": 5101407,
+      "peso_horas": 5.196
+    },
+    {
+      "u": 1300144,
+      "v": 5103254,
+      "peso_horas": 4.0643
+    },
+    {
+      "u": 1300904,
+      "v": 1301704,
+      "peso_horas": 1.6924
+    },
+    {
+      "u": 1300904,
+      "v": 1302405,
+      "peso_horas": 4.3707
+    },
+    {
+      "u": 1300904,
+      "v": 1302702,
+      "peso_horas": 4.2211
+    },
+    {
+      "u": 1301704,
+      "v": 1302405,
+      "peso_horas": 6.0451
+    },
+    {
+      "u": 1301704,
+      "v": 1302702,
+      "peso_horas": 2.6369
+    },
+    {
+      "u": 1302702,
+      "v": 1303304,
+      "peso_horas": 2.8502
+    },
+    {
+      "u": 1302702,
+      "v": 5101407,
+      "peso_horas": 4.8069
+    },
+    {
+      "u": 1302702,
+      "v": 5103254,
+      "peso_horas": 3.788
+    },
+    {
+      "u": 1302900,
+      "v": 1303304,
+      "peso_horas": 3.5735
+    },
+    {
+      "u": 1302900,
+      "v": 1503606,
+      "peso_horas": 4.2301
+    },
+    {
+      "u": 1302900,
+      "v": 1503754,
+      "peso_horas": 1.5812
+    },
+    {
+      "u": 1500602,
+      "v": 1503606,
+      "peso_horas": 4.4642
+    },
+    {
+      "u": 1500602,
+      "v": 1503754,
+      "peso_horas": 7.0005
+    },
+    {
+      "u": 1500602,
+      "v": 1507300,
+      "peso_horas": 3.3124
+    },
+    {
+      "u": 1503606,
+      "v": 1503754,
+      "peso_horas": 2.8604
+    },
+    {
+      "u": 1503606,
+      "v": 1505106,
+      "peso_horas": 12.2877
+    },
+    {
+      "u": 1503606,
+      "v": 1507300,
+      "peso_horas": 7.4741
+    },
+    {
+      "u": 1504703,
+      "v": 1505486,
+      "peso_horas": 2.6732
+    },
+    {
+      "u": 1504703,
+      "v": 1505502,
+      "peso_horas": 3.561
+    },
+    {
+      "u": 1504703,
+      "v": 1505809,
+      "peso_horas": 2.7306
+    },
+    {
+      "u": 1504703,
+      "v": 1506187,
+      "peso_horas": 3.3741
+    },
+    {
+      "u": 1505106,
+      "v": 1505486,
+      "peso_horas": 12.2548
+    },
+    {
+      "u": 1505106,
+      "v": 1505809,
+      "peso_horas": 11.089
+    },
+    {
+      "u": 1505486,
+      "v": 1505502,
+      "peso_horas": 5.8341
+    },
+    {
+      "u": 1505486,
+      "v": 1505809,
+      "peso_horas": 1.4302
+    },
+    {
+      "u": 1505486,
+      "v": 1506187,
+      "peso_horas": 4.2259
+    },
+    {
+      "u": 1505486,
+      "v": 1507300,
+      "peso_horas": 6.522
+    },
+    {
+      "u": 1505502,
+      "v": 1506187,
+      "peso_horas": 2.9581
+    },
+    {
+      "u": 1505809,
+      "v": 1506187,
+      "peso_horas": 5.2578
+    },
+    {
+      "u": 1507300,
+      "v": 5107859,
+      "peso_horas": 9.2071
+    },
+    {
+      "u": 5101407,
+      "v": 5103254,
+      "peso_horas": 1.1899
+    },
+    {
+      "u": 5101407,
+      "v": 5108907,
+      "peso_horas": 7.9539
+    },
+    {
+      "u": 5105580,
+      "v": 5106240,
+      "peso_horas": 3.7692
+    },
+    {
+      "u": 5105580,
+      "v": 5107859,
+      "peso_horas": 4.2564
+    },
+    {
+      "u": 5105580,
+      "v": 5108907,
+      "peso_horas": 6.4945
+    },
+    {
+      "u": 5106240,
+      "v": 5107859,
+      "peso_horas": 5.8162
+    },
+    {
+      "u": 5106240,
+      "v": 5108907,
+      "peso_horas": 4.2532
+    }
+  ],
+  "mst": {
+    "arestas": [
+      {
+        "u": 1100205,
+        "v": 1300904,
+        "peso_horas": 2.3089
+      },
+      {
+        "u": 1300904,
+        "v": 1301704,
+        "peso_horas": 1.6924
+      },
+      {
+        "u": 1301704,
+        "v": 1302702,
+        "peso_horas": 2.6369
+      },
+      {
+        "u": 1302702,
+        "v": 1303304,
+        "peso_horas": 2.8502
+      },
+      {
+        "u": 1303304,
+        "v": 1300144,
+        "peso_horas": 1.6893
+      },
+      {
+        "u": 1300144,
+        "v": 1302900,
+        "peso_horas": 2.7272
+      },
+      {
+        "u": 1302900,
+        "v": 1503754,
+        "peso_horas": 1.5812
+      },
+      {
+        "u": 1503754,
+        "v": 1503606,
+        "peso_horas": 2.8604
+      },
+      {
+        "u": 1100205,
+        "v": 1302405,
+        "peso_horas": 3.7309
+      },
+      {
+        "u": 1302702,
+        "v": 5103254,
+        "peso_horas": 3.788
+      },
+      {
+        "u": 5103254,
+        "v": 5101407,
+        "peso_horas": 1.1899
+      },
+      {
+        "u": 1503606,
+        "v": 1500602,
+        "peso_horas": 4.4642
+      },
+      {
+        "u": 1500602,
+        "v": 1507300,
+        "peso_horas": 3.3124
+      },
+      {
+        "u": 1507300,
+        "v": 1505486,
+        "peso_horas": 6.522
+      },
+      {
+        "u": 1505486,
+        "v": 1505809,
+        "peso_horas": 1.4302
+      },
+      {
+        "u": 1505486,
+        "v": 1504703,
+        "peso_horas": 2.6732
+      },
+      {
+        "u": 1504703,
+        "v": 1506187,
+        "peso_horas": 3.3741
+      },
+      {
+        "u": 1506187,
+        "v": 1505502,
+        "peso_horas": 2.9581
+      },
+      {
+        "u": 5101407,
+        "v": 5108907,
+        "peso_horas": 7.9539
+      },
+      {
+        "u": 5108907,
+        "v": 5106240,
+        "peso_horas": 4.2532
+      },
+      {
+        "u": 5106240,
+        "v": 5105580,
+        "peso_horas": 3.7692
+      },
+      {
+        "u": 5105580,
+        "v": 5107859,
+        "peso_horas": 4.2564
+      },
+      {
+        "u": 1505809,
+        "v": 1505106,
+        "peso_horas": 11.089
+      }
+    ],
+    "custo_total_horas": 83.111045
+  },
+  "hub_dijkstra": {
+    "id": 5103254,
+    "nome": "Colniza",
+    "distancias_horas": {
+      "1100205": 9.751483,
+      "1300144": 4.064337,
+      "1300904": 8.009057,
+      "1301704": 6.424858,
+      "1302405": 12.379732,
+      "1302702": 3.788002,
+      "1302900": 6.791515,
+      "1303304": 5.753629,
+      "1500602": 14.7072,
+      "1503606": 10.567034,
+      "1503754": 7.706664,
+      "1504703": 27.21472,
+      "1505106": 22.854692,
+      "1505486": 24.541564,
+      "1505502": 30.37571,
+      "1505809": 25.971735,
+      "1506187": 28.767492,
+      "1507300": 18.01958,
+      "5101407": 1.189943,
+      "5103254": 0.0,
+      "5105580": 15.638313,
+      "5106240": 13.397069,
+      "5107859": 19.213288,
+      "5108907": 9.143857
+    }
+  }
+}

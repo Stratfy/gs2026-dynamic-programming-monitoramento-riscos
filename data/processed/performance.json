@@ -1,0 +1,156 @@
+[
+  {
+    "n": 5,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 5,
+      "tempo_ms": 0.2682,
+      "memoria_mb": 0.002342,
+      "operacoes": 219,
+      "custo": 18.788198,
+      "viavel": true
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 5,
+      "tempo_ms": 0.0388,
+      "memoria_mb": 0.001106,
+      "operacoes": 13,
+      "custo": 18.788198,
+      "viavel": true
+    },
+    "gap_otimalidade": 0.0
+  },
+  {
+    "n": 8,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 8,
+      "tempo_ms": 5.6135,
+      "memoria_mb": 0.002625,
+      "operacoes": 5475,
+      "custo": 24.487427,
+      "viavel": true
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 8,
+      "tempo_ms": 0.0239,
+      "memoria_mb": 0.001129,
+      "operacoes": 21,
+      "custo": 24.487427,
+      "viavel": true
+    },
+    "gap_otimalidade": 0.0
+  },
+  {
+    "n": 10,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 10,
+      "tempo_ms": 30.9122,
+      "memoria_mb": 0.003098,
+      "operacoes": 33835,
+      "custo": 25.53291,
+      "viavel": true
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 10,
+      "tempo_ms": 0.0274,
+      "memoria_mb": 0.001205,
+      "operacoes": 28,
+      "custo": 25.53291,
+      "viavel": true
+    },
+    "gap_otimalidade": 0.0
+  },
+  {
+    "n": 12,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 12,
+      "tempo_ms": 564.3212,
+      "memoria_mb": 0.004082,
+      "operacoes": 685505,
+      "custo": 31.138786,
+      "viavel": true
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 12,
+      "tempo_ms": 0.0426,
+      "memoria_mb": 0.00193,
+      "operacoes": 37,
+      "custo": 31.138786,
+      "viavel": true
+    },
+    "gap_otimalidade": 0.0
+  },
+  {
+    "n": 20,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 20,
+      "tempo_ms": null,
+      "memoria_mb": null,
+      "operacoes": -1,
+      "custo": null,
+      "viavel": false
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 20,
+      "tempo_ms": 0.0747,
+      "memoria_mb": 0.00457,
+      "operacoes": 74,
+      "custo": 45.262049,
+      "viavel": true
+    },
+    "gap_otimalidade": null
+  },
+  {
+    "n": 50,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 50,
+      "tempo_ms": null,
+      "memoria_mb": null,
+      "operacoes": -1,
+      "custo": null,
+      "viavel": false
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 50,
+      "tempo_ms": 0.1315,
+      "memoria_mb": 0.004982,
+      "operacoes": 185,
+      "custo": 65.206984,
+      "viavel": true
+    },
+    "gap_otimalidade": null
+  },
+  {
+    "n": 100,
+    "forca_bruta": {
+      "algoritmo": "Forca Bruta (MST exaustiva)",
+      "n": 100,
+      "tempo_ms": null,
+      "memoria_mb": null,
+      "operacoes": -1,
+      "custo": null,
+      "viavel": false
+    },
+    "guloso": {
+      "algoritmo": "Guloso (Prim)",
+      "n": 100,
+      "tempo_ms": 0.3373,
+      "memoria_mb": 0.014305,
+      "operacoes": 370,
+      "custo": 103.400522,
+      "viavel": true
+    },
+    "gap_otimalidade": null
+  }
+]
