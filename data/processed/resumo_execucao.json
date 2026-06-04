@@ -1,0 +1,23 @@
+{
+  "projeto": "Stratfy - Dynamic Programming - GS2026",
+  "tema": "Sistema de Deteccao de Incendios Florestais",
+  "cenarios": [
+    {
+      "cenario": "Cenario_B_MATOPIBA",
+      "n_vertices": 24,
+      "n_arestas": 47,
+      "mst_custo": 49.512624,
+      "fb_coincide": true,
+      "caminho_coincide": true
+    },
+    {
+      "cenario": "Cenario_D_Amazonia",
+      "n_vertices": 24,
+      "n_arestas": 46,
+      "mst_custo": 83.111045,
+      "fb_coincide": true,
+      "caminho_coincide": true
+    }
+  ],
+  "validacao_forca_bruta": true
+}

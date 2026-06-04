@@ -1,0 +1,704 @@
+{
+  "nome": "Cenario_B_MATOPIBA",
+  "vertices": [
+    {
+      "id": 2106706,
+      "nome": "Mirador",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 38521,
+      "risco_fogo_medio": 0.9677,
+      "frp_medio": 39.615,
+      "dias_sem_chuva_medio": 17.22,
+      "lat": -6.426128,
+      "lon": -44.876085,
+      "indice_risco": 0.970978
+    },
+    {
+      "id": 1716208,
+      "nome": "Paranã",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 33659,
+      "risco_fogo_medio": 0.8827,
+      "frp_medio": 25.571,
+      "dias_sem_chuva_medio": 34.94,
+      "lat": -12.787208,
+      "lon": -47.907596,
+      "indice_risco": 0.91499
+    },
+    {
+      "id": 2101400,
+      "nome": "Balsas",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 30721,
+      "risco_fogo_medio": 0.9504,
+      "frp_medio": 38.887,
+      "dias_sem_chuva_medio": 19.11,
+      "lat": -8.260447,
+      "lon": -46.3442,
+      "indice_risco": 0.952234
+    },
+    {
+      "id": 2100501,
+      "nome": "Alto Parnaíba",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 26362,
+      "risco_fogo_medio": 0.9898,
+      "frp_medio": 44.195,
+      "dias_sem_chuva_medio": 62.71,
+      "lat": -9.536113,
+      "lon": -46.158567,
+      "indice_risco": 0.970217
+    },
+    {
+      "id": 1711902,
+      "nome": "Lagoa da Confusão",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 24354,
+      "risco_fogo_medio": 0.8794,
+      "frp_medio": 44.336,
+      "dias_sem_chuva_medio": 53.09,
+      "lat": -11.067311,
+      "lon": -50.206263,
+      "indice_risco": 0.901048
+    },
+    {
+      "id": 2211209,
+      "nome": "Uruçuí",
+      "uf": "PI",
+      "bioma": "Cerrado",
+      "n_focos": 24025,
+      "risco_fogo_medio": 0.9633,
+      "frp_medio": 30.357,
+      "dias_sem_chuva_medio": 26.13,
+      "lat": -7.65519,
+      "lon": -44.591364,
+      "indice_risco": 0.950885
+    },
+    {
+      "id": 2911105,
+      "nome": "Formosa do Rio Preto",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 23656,
+      "risco_fogo_medio": 0.9558,
+      "frp_medio": 51.41,
+      "dias_sem_chuva_medio": 49.28,
+      "lat": -11.087319,
+      "lon": -45.662406,
+      "indice_risco": 0.945813
+    },
+    {
+      "id": 2928901,
+      "nome": "São Desidério",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 23548,
+      "risco_fogo_medio": 0.9341,
+      "frp_medio": 56.471,
+      "dias_sem_chuva_medio": 26.58,
+      "lat": -12.760122,
+      "lon": -45.204995,
+      "indice_risco": 0.932624
+    },
+    {
+      "id": 1702406,
+      "nome": "Arraias",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 22468,
+      "risco_fogo_medio": 0.9283,
+      "frp_medio": 28.044,
+      "dias_sem_chuva_medio": 25.24,
+      "lat": -12.80958,
+      "lon": -47.048484,
+      "indice_risco": 0.927408
+    },
+    {
+      "id": 1708205,
+      "nome": "Formoso do Araguaia",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 21688,
+      "risco_fogo_medio": 0.9178,
+      "frp_medio": 47.935,
+      "dias_sem_chuva_medio": 45.82,
+      "lat": -12.042052,
+      "lon": -50.263358,
+      "indice_risco": 0.919802
+    },
+    {
+      "id": 2902708,
+      "nome": "Barra",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 21651,
+      "risco_fogo_medio": 0.9845,
+      "frp_medio": 67.149,
+      "dias_sem_chuva_medio": 94.46,
+      "lat": -11.318136,
+      "lon": -43.528657,
+      "indice_risco": 0.959759
+    },
+    {
+      "id": 2101608,
+      "nome": "Barra do Corda",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 21339,
+      "risco_fogo_medio": 0.8136,
+      "frp_medio": 55.863,
+      "dias_sem_chuva_medio": 16.64,
+      "lat": -5.573736,
+      "lon": -45.221779,
+      "indice_risco": 0.856682
+    },
+    {
+      "id": 2104800,
+      "nome": "Grajaú",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 20810,
+      "risco_fogo_medio": 0.8603,
+      "frp_medio": 45.348,
+      "dias_sem_chuva_medio": 17.07,
+      "lat": -5.881957,
+      "lon": -45.88727,
+      "indice_risco": 0.883774
+    },
+    {
+      "id": 2926202,
+      "nome": "Riachão das Neves",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 20067,
+      "risco_fogo_medio": 0.9788,
+      "frp_medio": 41.368,
+      "dias_sem_chuva_medio": 44.06,
+      "lat": -11.636879,
+      "lon": -45.014981,
+      "indice_risco": 0.95353
+    },
+    {
+      "id": 1712702,
+      "nome": "Mateiros",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 19216,
+      "risco_fogo_medio": 0.9508,
+      "frp_medio": 43.553,
+      "dias_sem_chuva_medio": 46.85,
+      "lat": -10.603496,
+      "lon": -46.595176,
+      "indice_risco": 0.935128
+    },
+    {
+      "id": 2203909,
+      "nome": "Floriano",
+      "uf": "PI",
+      "bioma": "Caatinga",
+      "n_focos": 18191,
+      "risco_fogo_medio": 0.9646,
+      "frp_medio": 48.177,
+      "dias_sem_chuva_medio": 18.57,
+      "lat": -7.063007,
+      "lon": -43.057128,
+      "indice_risco": 0.941382
+    },
+    {
+      "id": 2908101,
+      "nome": "Cocos",
+      "uf": "BA",
+      "bioma": "Cerrado",
+      "n_focos": 17181,
+      "risco_fogo_medio": 0.9757,
+      "frp_medio": 59.109,
+      "dias_sem_chuva_medio": 46.45,
+      "lat": -14.453198,
+      "lon": -45.111594,
+      "indice_risco": 0.94593
+    },
+    {
+      "id": 2201150,
+      "nome": "Baixa Grande do Ribeiro",
+      "uf": "PI",
+      "bioma": "Cerrado",
+      "n_focos": 16879,
+      "risco_fogo_medio": 0.9475,
+      "frp_medio": 48.493,
+      "dias_sem_chuva_medio": 19.26,
+      "lat": -8.47326,
+      "lon": -45.142555,
+      "indice_risco": 0.928355
+    },
+    {
+      "id": 2202307,
+      "nome": "Canto do Buriti",
+      "uf": "PI",
+      "bioma": "Caatinga",
+      "n_focos": 16842,
+      "risco_fogo_medio": 0.7387,
+      "frp_medio": 83.163,
+      "dias_sem_chuva_medio": 26.85,
+      "lat": -8.167939,
+      "lon": -43.225366,
+      "indice_risco": 0.802993
+    },
+    {
+      "id": 2103000,
+      "nome": "Caxias",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 15123,
+      "risco_fogo_medio": 0.8746,
+      "frp_medio": 53.495,
+      "dias_sem_chuva_medio": 9.66,
+      "lat": -4.867006,
+      "lon": -43.251379,
+      "indice_risco": 0.880554
+    },
+    {
+      "id": 1712405,
+      "nome": "Lizarda",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 14665,
+      "risco_fogo_medio": 0.9588,
+      "frp_medio": 37.042,
+      "dias_sem_chuva_medio": 31.07,
+      "lat": -9.50148,
+      "lon": -46.954222,
+      "indice_risco": 0.929937
+    },
+    {
+      "id": 1717503,
+      "nome": "Pium",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 14651,
+      "risco_fogo_medio": 0.8909,
+      "frp_medio": 48.711,
+      "dias_sem_chuva_medio": 24.58,
+      "lat": -10.297269,
+      "lon": -50.112214,
+      "indice_risco": 0.889161
+    },
+    {
+      "id": 2101806,
+      "nome": "Benedito Leite",
+      "uf": "MA",
+      "bioma": "Cerrado",
+      "n_focos": 14171,
+      "risco_fogo_medio": 0.9274,
+      "frp_medio": 34.666,
+      "dias_sem_chuva_medio": 20.04,
+      "lat": -7.103243,
+      "lon": -44.537775,
+      "indice_risco": 0.90983
+    },
+    {
+      "id": 1717909,
+      "nome": "Ponte Alta do Tocantins",
+      "uf": "TO",
+      "bioma": "Cerrado",
+      "n_focos": 13970,
+      "risco_fogo_medio": 0.929,
+      "frp_medio": 44.742,
+      "dias_sem_chuva_medio": 52.53,
+      "lat": -10.761755,
+      "lon": -47.271615,
+      "indice_risco": 0.910262
+    }
+  ],
+  "arestas": [
+    {
+      "u": 1702406,
+      "v": 1716208,
+      "peso_horas": 1.5531
+    },
+    {
+      "u": 1702406,
+      "v": 1717909,
+      "peso_horas": 3.8167
+    },
+    {
+      "u": 1702406,
+      "v": 2908101,
+      "peso_horas": 4.631
+    },
+    {
+      "u": 1702406,
+      "v": 2928901,
+      "peso_horas": 3.333
+    },
+    {
+      "u": 1708205,
+      "v": 1711902,
+      "peso_horas": 1.8094
+    },
+    {
+      "u": 1708205,
+      "v": 1716208,
+      "peso_horas": 4.4817
+    },
+    {
+      "u": 1708205,
+      "v": 1717503,
+      "peso_horas": 3.2452
+    },
+    {
+      "u": 1711902,
+      "v": 1716208,
+      "peso_horas": 5.247
+    },
+    {
+      "u": 1711902,
+      "v": 1717503,
+      "peso_horas": 1.4373
+    },
+    {
+      "u": 1712405,
+      "v": 1712702,
+      "peso_horas": 2.1448
+    },
+    {
+      "u": 1712405,
+      "v": 1717909,
+      "peso_horas": 2.4063
+    },
+    {
+      "u": 1712405,
+      "v": 2100501,
+      "peso_horas": 1.4557
+    },
+    {
+      "u": 1712405,
+      "v": 2101400,
+      "peso_horas": 2.5568
+    },
+    {
+      "u": 1712702,
+      "v": 1717909,
+      "peso_horas": 1.2663
+    },
+    {
+      "u": 1712702,
+      "v": 2100501,
+      "peso_horas": 2.1325
+    },
+    {
+      "u": 1712702,
+      "v": 2911105,
+      "peso_horas": 1.92
+    },
+    {
+      "u": 1716208,
+      "v": 1717909,
+      "peso_horas": 3.927
+    },
+    {
+      "u": 1717503,
+      "v": 1717909,
+      "peso_horas": 5.2468
+    },
+    {
+      "u": 1717909,
+      "v": 2911105,
+      "peso_horas": 2.9897
+    },
+    {
+      "u": 2100501,
+      "v": 2101400,
+      "peso_horas": 2.3884
+    },
+    {
+      "u": 2100501,
+      "v": 2201150,
+      "peso_horas": 2.7089
+    },
+    {
+      "u": 2101400,
+      "v": 2201150,
+      "peso_horas": 2.2383
+    },
+    {
+      "u": 2101608,
+      "v": 2101806,
+      "peso_horas": 3.1019
+    },
+    {
+      "u": 2101608,
+      "v": 2103000,
+      "peso_horas": 3.8652
+    },
+    {
+      "u": 2101608,
+      "v": 2104800,
+      "peso_horas": 1.3536
+    },
+    {
+      "u": 2101608,
+      "v": 2106706,
+      "peso_horas": 1.7033
+    },
+    {
+      "u": 2101806,
+      "v": 2104800,
+      "peso_horas": 3.3611
+    },
+    {
+      "u": 2101806,
+      "v": 2106706,
+      "peso_horas": 1.4008
+    },
+    {
+      "u": 2101806,
+      "v": 2202307,
+      "peso_horas": 3.1152
+    },
+    {
+      "u": 2101806,
+      "v": 2203909,
+      "peso_horas": 2.7241
+    },
+    {
+      "u": 2101806,
+      "v": 2211209,
+      "peso_horas": 1.0276
+    },
+    {
+      "u": 2103000,
+      "v": 2106706,
+      "peso_horas": 4.1625
+    },
+    {
+      "u": 2103000,
+      "v": 2203909,
+      "peso_horas": 4.0855
+    },
+    {
+      "u": 2104800,
+      "v": 2106706,
+      "peso_horas": 2.1186
+    },
+    {
+      "u": 2106706,
+      "v": 2211209,
+      "peso_horas": 2.3372
+    },
+    {
+      "u": 2201150,
+      "v": 2211209,
+      "peso_horas": 1.8225
+    },
+    {
+      "u": 2202307,
+      "v": 2203909,
+      "peso_horas": 2.0709
+    },
+    {
+      "u": 2202307,
+      "v": 2211209,
+      "peso_horas": 2.6815
+    },
+    {
+      "u": 2203909,
+      "v": 2211209,
+      "peso_horas": 3.0259
+    },
+    {
+      "u": 2902708,
+      "v": 2911105,
+      "peso_horas": 3.9025
+    },
+    {
+      "u": 2902708,
+      "v": 2926202,
+      "peso_horas": 2.7633
+    },
+    {
+      "u": 2902708,
+      "v": 2928901,
+      "peso_horas": 4.0463
+    },
+    {
+      "u": 2908101,
+      "v": 2926202,
+      "peso_horas": 5.2223
+    },
+    {
+      "u": 2908101,
+      "v": 2928901,
+      "peso_horas": 3.1422
+    },
+    {
+      "u": 2911105,
+      "v": 2926202,
+      "peso_horas": 1.556
+    },
+    {
+      "u": 2911105,
+      "v": 2928901,
+      "peso_horas": 3.2091
+    },
+    {
+      "u": 2926202,
+      "v": 2928901,
+      "peso_horas": 2.1099
+    }
+  ],
+  "mst": {
+    "arestas": [
+      {
+        "u": 1702406,
+        "v": 1716208,
+        "peso_horas": 1.5531
+      },
+      {
+        "u": 1702406,
+        "v": 2928901,
+        "peso_horas": 3.333
+      },
+      {
+        "u": 2928901,
+        "v": 2926202,
+        "peso_horas": 2.1099
+      },
+      {
+        "u": 2926202,
+        "v": 2911105,
+        "peso_horas": 1.556
+      },
+      {
+        "u": 2911105,
+        "v": 1712702,
+        "peso_horas": 1.92
+      },
+      {
+        "u": 1712702,
+        "v": 1717909,
+        "peso_horas": 1.2663
+      },
+      {
+        "u": 1712702,
+        "v": 2100501,
+        "peso_horas": 2.1325
+      },
+      {
+        "u": 2100501,
+        "v": 1712405,
+        "peso_horas": 1.4557
+      },
+      {
+        "u": 2100501,
+        "v": 2101400,
+        "peso_horas": 2.3884
+      },
+      {
+        "u": 2101400,
+        "v": 2201150,
+        "peso_horas": 2.2383
+      },
+      {
+        "u": 2201150,
+        "v": 2211209,
+        "peso_horas": 1.8225
+      },
+      {
+        "u": 2211209,
+        "v": 2101806,
+        "peso_horas": 1.0276
+      },
+      {
+        "u": 2101806,
+        "v": 2106706,
+        "peso_horas": 1.4008
+      },
+      {
+        "u": 2106706,
+        "v": 2101608,
+        "peso_horas": 1.7033
+      },
+      {
+        "u": 2101608,
+        "v": 2104800,
+        "peso_horas": 1.3536
+      },
+      {
+        "u": 2211209,
+        "v": 2202307,
+        "peso_horas": 2.6815
+      },
+      {
+        "u": 2202307,
+        "v": 2203909,
+        "peso_horas": 2.0709
+      },
+      {
+        "u": 2926202,
+        "v": 2902708,
+        "peso_horas": 2.7633
+      },
+      {
+        "u": 2928901,
+        "v": 2908101,
+        "peso_horas": 3.1422
+      },
+      {
+        "u": 2101608,
+        "v": 2103000,
+        "peso_horas": 3.8652
+      },
+      {
+        "u": 1716208,
+        "v": 1708205,
+        "peso_horas": 4.4817
+      },
+      {
+        "u": 1708205,
+        "v": 1711902,
+        "peso_horas": 1.8094
+      },
+      {
+        "u": 1711902,
+        "v": 1717503,
+        "peso_horas": 1.4373
+      }
+    ],
+    "custo_total_horas": 49.512624
+  },
+  "hub_dijkstra": {
+    "id": 2106706,
+    "nome": "Mirador",
+    "distancias_horas": {
+      "1702406": 14.084096,
+      "1708205": 18.676174,
+      "1711902": 16.951519,
+      "1712405": 8.324252,
+      "1712702": 9.001119,
+      "1716208": 14.194425,
+      "1717503": 15.514196,
+      "1717909": 10.267437,
+      "2100501": 6.868591,
+      "2101400": 6.397929,
+      "2101608": 1.703347,
+      "2101806": 1.400829,
+      "2103000": 4.162523,
+      "2104800": 2.118598,
+      "2106706": 0.0,
+      "2201150": 4.159661,
+      "2202307": 4.516019,
+      "2203909": 4.124918,
+      "2211209": 2.337183,
+      "2902708": 14.823651,
+      "2908101": 17.272472,
+      "2911105": 10.921122,
+      "2926202": 12.477084,
+      "2928901": 14.13027
+    }
+  }
+}
