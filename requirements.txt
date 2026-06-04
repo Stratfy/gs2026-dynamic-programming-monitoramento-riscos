@@ -1,0 +1,8 @@
+# Dependências — Dynamic Programming (Stratfy / FIAP Global Solution 2026)
+# Os algoritmos (BST, Grafo, Prim, Dijkstra, Força Bruta) são implementados do
+# zero usando apenas a biblioteca padrão. As libs abaixo servem para desenhar
+# as figuras e rodar os testes.
+networkx==3.6.1
+matplotlib==3.10.9
+pytest>=8.0
+# seaborn NAO e necessario: as figuras usam apenas matplotlib (sem dependencia dura).
